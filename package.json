@@ -1,0 +1,1 @@
+{"name":"asphyxiate-fintech-builder","version":"1.0.0","type":"module","scripts":{"typecheck":"tsc --noEmit","test":"vitest run","lint":"eslint src --ext .ts"},"devDependencies":{"typescript":"^5.0.0","vitest":"^1.0.0","eslint":"^8.0.0","@types/node":"^20.0.0"},"dependencies":{"zod":"^3.22.0","pino":"^8.0.0","crypto-js":"^4.2.0"}}
